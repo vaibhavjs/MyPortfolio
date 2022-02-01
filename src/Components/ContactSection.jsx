@@ -3,15 +3,15 @@ import styles from "./Styles/ContactSection.module.css"
 import { AiOutlineMail } from "react-icons/ai"
 import { AiOutlineGithub } from "react-icons/ai"
 import { AiFillLinkedin } from "react-icons/ai"
-import { useRef } from 'react';
+// import { useRef } from 'react';
 import emailjs from '@emailjs/browser';
-import { Form, Input, TextArea, Button } from 'semantic-ui-react'
+import { Form, TextArea } from 'semantic-ui-react'
 import Swal from 'sweetalert2'
 
 
 import Fade from "react-reveal/Fade"
 export function ContactSection() {
-  const form = useRef();
+  // const form = useRef();
 
   
   const handleOnSubmit = (e) => {
