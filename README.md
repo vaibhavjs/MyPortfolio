@@ -1,3 +1,7 @@
+# My Portfolio application created using ReactJs, Redux & Material UI.
+This is a simple React application created to showcase my Portfolio. You can directly visit the deployed portfolio project at [vaibhav.info]
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
