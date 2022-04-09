@@ -29,8 +29,8 @@ const projects = [
   {
     name: "Drawing application",
     img: "/drawingApp.png",
-    link: "https://focused-morse-d9cbf0.netlify.app/",
-    git: "https://github.com/vaibhavjs/DrawingApplication.git",
+    link: "https://presentation-itp2.netlify.app/",
+    git: "https://github.com/vaibhavjs/DrawingApp.git",
     about:
       "This simple drawing application replicates the features of a classic 'MS Paint' application. This application is developed using HTML, CSS, Javascript & P5.js library.",
     stacks: [
